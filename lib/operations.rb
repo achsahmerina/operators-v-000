@@ -3,7 +3,7 @@ def unsafe?(speed)
 		return true
 	elsif speed < 40
 		return true
-	elsif speed is between 40 and 60
+	elsif the speed is between 40 and 60
 		return false
 	end
 end
